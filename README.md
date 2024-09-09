@@ -14,3 +14,8 @@ saldo: Consulta o saldo da conta.
 compra: Simula uma compra internacional.
 atendente: Conecta com um atendente.
 sair: Encerra o atendimento.
+
+Arquivos:
+bibliotecas.ipynb: Execute primeiro para baixar e instalar as bibliotecas necessárias.
+audios.ipynb: Utilize este arquivo caso precise alterar os áudios.
+principal.ipynb: Execute este código para realizar os testes.
